@@ -1,5 +1,1 @@
 stage
-land-cute
-land-deadbodys
-land-destroyed
-land-lol
