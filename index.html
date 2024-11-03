@@ -1,9 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <script>
+      window.addEventListener(
+        "keydown",
+        function (e) {
+          if ([32, 37, 38, 39, 40].indexOf(e.keyCode) > -1) {
+            e.preventDefault();
+          }
+        },
+        false
+      );
+    </script>
+
     <meta charset="utf-8" />
 
-    <title>Game 24819</title>
+    <title>Game 6450</title>
 
     <meta
       id="viewport"
@@ -11,10 +23,10 @@
       content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
     />
     <meta name="apple-mobile-web-app-capable" content="yes" />
-    <link rel="shortcut icon" type="image/png" href="./favicon.png" />
-    <link rel="canonical" href="https://game.fnfhub.net/24819/" />
 
-    <script type="text/javascript" src="./PsychEngine.js"></script>
+    <link rel="shortcut icon" type="image/png" href="./favicon.png" />
+
+    <script type="text/javascript" src="./Kade Engine.js"></script>
 
     <script>
       window.addEventListener(
@@ -36,24 +48,6 @@
             ", user-scalable=no"
         );
       }
-      window.addEventListener(
-        "keydown",
-        function (e) {
-          if (
-            [
-              "Tab",
-              "Space",
-              "ArrowUp",
-              "ArrowDown",
-              "ArrowLeft",
-              "ArrowRight",
-            ].indexOf(e.code) > -1
-          ) {
-            e.preventDefault();
-          }
-        },
-        false
-      );
     </script>
 
     <style>
@@ -70,11 +64,18 @@
         height: 100%;
       }
       @font-face {
-        font-family: "Impact";
-        src: url("assets/fonts/impact.eot?#iefix") format("embedded-opentype"),
-          url("assets/fonts/impact.woff") format("woff"),
-          url("assets/fonts/impact.ttf") format("truetype"),
-          url("assets/fonts/impact.svg#Impact") format("svg");
+        font-family: "Anime Ace 2.0 BB";
+        src: url("assets/fonts/anime.eot?#iefix") format("embedded-opentype"),
+          url("assets/fonts/anime.woff") format("woff"),
+          url("assets/fonts/anime.otf") format("truetype");
+        font-weight: normal;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: "Funkin";
+        src: url("assets/fonts/funkin.eot?#iefix") format("embedded-opentype"),
+          url("assets/fonts/funkin.woff") format("woff"),
+          url("assets/fonts/funkin.otf") format("truetype");
         font-weight: normal;
         font-style: normal;
       }
@@ -127,11 +128,12 @@
     <div id="openfl-content"></div>
 
     <script type="text/javascript">
-      lime.embed("PsychEngine", "openfl-content", 1280, 720, {
+      lime.embed("Kade Engine", "openfl-content", 1280, 720, {
         parameters: {},
       });
     </script>
 
-    <script src="./../sk.min.js?010723"></script>
+    <link rel="stylesheet" href="/assets/css.css" type="text/css" media="all" />
+    <script type="text/javascript" src="/assets/js.js"></script>
   </body>
 </html>

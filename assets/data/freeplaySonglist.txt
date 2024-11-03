@@ -1,0 +1,3 @@
+Let-Us-In:Freddy:0
+Slaughter:Freddy-angry:0
+Fired:Golden-freddy:0

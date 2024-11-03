@@ -1,0 +1,16 @@
+[178[ [179[ [223[ [216[ |Breakfast| *100* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:bf: !surprised! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      BEEP BOPE BLOP BEEB !!!
+:templateSenpai-hd: !weird! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      YES I TOLD YOU IT'S NOT A GOOD IDEA TO SNEAK INTO THIS PLACE !
+:dad: !weird! [Funkin[ ]65] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_spirit# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      ...
+:dad: !weird! [Funkin[ ]65] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_spirit# ^pixelText^ !#BFFF00! ?#FFFFFFFF? .. ~~      ...
+:dad: !bruh! [Funkin[ ]65] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_spirit# ^pixelText^ !#00FF00! ?#FFFFFFFF? .. ~~      *Gear noises
+:dad: !default! [Funkin[ ]65] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FFFFFFFF? .. ~~      "Welcome to Freddy Fazbear's pizza
+:dad: !default! [Funkin[ ]65] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FFFFFFFF? .. ~~      A magical place for Kids and Grown-ups alike
+:dad: !default! [Funkin[ ]65] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FFFFFFFF? .. ~~      Where Fantasty and Fun ...
+:dad: !bruh! [Funkin[ ]65] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_spirit# ^pixelText^ !#ff0000! ?#FFFFFFFF? .. ~~      COME TO LIFE"
+:dad: !weird! [Funkin[ ]65] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FFFFFFFF? .. ~~      *Music starts to play
+:templateSenpai-hd: !bruh! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      ...
+:templateSenpai-hd: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Hey BF !
+:bf: !bruh! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Bop
+:templateSenpai-hd: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      He has a mic you think you can have a rap battle with him ?!
+:bf: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Boop beeb beep
